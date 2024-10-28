@@ -1,0 +1,24 @@
+{
+  "name": "i-need-dummy-data",
+  "version": "1.0.0",
+  "description": "A random data generator package to test and speed up application development process.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niknarra/i-need-dummy-data.git"
+  },
+  "author": "Nikhil Narra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niknarra/i-need-dummy-data/issues"
+  },
+  "homepage": "https://github.com/niknarra/i-need-dummy-data#readme",
+  "dependencies": {
+    "@faker-js/faker": "^9.1.0",
+    "uuid": "^11.0.2"
+  }
+}
